@@ -1,5 +1,5 @@
 # Modern Control Project: Quadcopter Dynamics and Control
-This project was developed by Mohammadmehdi Karami as part of the Modern Control course under the supervision of Prof. Hamid D. Taghirad. The aim of this project is to explore advanced concepts in modern control theory and their applications.
+This project was developed as part of the Modern Control course. The aim of this project is to explore advanced concepts in modern control theory and their applications.
 
 ## Table of Contents
 - [Acknowledgements](#acknowledgements)
@@ -10,7 +10,7 @@ This project was developed by Mohammadmehdi Karami as part of the Modern Control
 - [License](#license)
 
 ## Acknowledgements
-This project was developed by Mohammadmehdi Karami as part of the Modern Control course. Special thanks to Prof. Hamid D. Taghirad for his invaluable guidance and support, as well as to the peers who provided valuable feedback and assistance throughout the course.
+This project was developed by Mohammadmehdi Karami as part of the Modern Control course. Special thanks to [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/) for his invaluable guidance and support, as well as to the peers who provided valuable feedback and assistance throughout the course.
 
 ## Introduction
 The Modern Control Project focuses on the application of advanced control theory techniques to the practical problem of quadcopter stabilization and control. This project utilizes MATLAB to simulate and implement various control strategies to maintain the stability and desired performance of a quadcopter. The MATLAB code provides a comprehensive framework for modeling, simulation, and analysis of the quadcopter's dynamics and control systems.
